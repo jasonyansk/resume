@@ -73,11 +73,6 @@ h1 + p {
   margin-bottom: 1rem;
 }
 
-/* Add left margin to strong elements in paragraphs following h1 */
-h1 + p strong {
-  margin-left: 0rem;
-}
-
 /* Styling for h2 */
 h2 {
   font-size: 1rem;
