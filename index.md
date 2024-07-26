@@ -78,7 +78,7 @@ Senior System Engineer with 10+ years of experience in automating and optimizing
 
 <div style="page-break-after: always;"></div>
 
-## CERTIFICATIONS
+## CERTIFICATION
 
 - **Azure Solutions Architect Expert:** Jun 2024
 - **Azure Administrator Associate:** Mar 2023
