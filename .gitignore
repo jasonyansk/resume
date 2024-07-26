@@ -1,6 +1,5 @@
 .DS_Store
 .vscode
 /sample
-*.md
 *.pdf
 template.html
