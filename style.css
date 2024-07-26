@@ -56,7 +56,7 @@ h1 {
   font-weight: 900;
   text-align: left;
   /*padding-bottom: 0.5rem;*/
-  margin-top: 0rem; /* Adjust as needed for html */
+  margin-top: 1rem; /* Adjust as needed for html */
 }
 
 /* Style for paragraph and its elements immediately following h1 */
