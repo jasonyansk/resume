@@ -47,7 +47,7 @@ h5 {
 
 h2,
 h4 {
-  color: #0078ff;
+  color: #007aff;
 }
 
 /* Specific styling for h1 */
@@ -127,7 +127,7 @@ ul {
 ul li::before,
 ol li::before {
   margin-right: 0.5rem; /* Add some space between the bullet and the text */
-  color: #0078ff;
+  color: #007aff;
   font-weight: bold;
 }
 
