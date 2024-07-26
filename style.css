@@ -1,12 +1,10 @@
 @page {
   size: A4;
-  margin: 3mm;
+  margin: 12.7mm;
 }
 
 body {
   background-color: white;
-  padding: 0mm 5mm 5mm 5mm;
-  margin: 0 auto;
   width: 210mm;
   height: 297mm;
   box-sizing: border-box;
