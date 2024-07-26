@@ -12,7 +12,7 @@ css: ./style.css
 **Email:** [whk00016c34@hotmail.com](mailto:whk00016c34@hotmail.com)
 **Phone:** +44 (0)7719 890032
 **Address:** London, UK \
-**LinkedIn:** [linkedin.com/in/jasonyansk](https://linkedin.com/in/jasonyansk)
+**LinkedIn:** [linkedin.com/in/jasonyansk](https://www.linkedin.com/in/jasonyansk)
 **GitHub:** [github.com/jasonyansk](https://jasonyansk.github.io/resume/)
 
 ## SUMMARY
