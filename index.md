@@ -90,6 +90,6 @@ Senior System Engineer with 10+ years of experience in automating and optimizing
 
 ## EDUCATION
 
-**BSc in Computer Science**
+**BSc (Hons) Computer Science**
 Hong Kong Baptist University
 _May 2011_
