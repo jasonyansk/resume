@@ -17,7 +17,7 @@ css: ./style.css
 
 ## SUMMARY
 
-Senior System Engineer with over 10 years of experience in automating, optimizing, and maintaining robust IT infrastructure. Proficient in cloud and on-premise platforms. Adept in leading migrations, architecting infrastructure solutions, and implementing comprehensive security measures.
+Senior System Engineer with 10+ years of experience in automating and optimizing IT infrastructure. Proficient in both cloud and on-premise platforms, with expertise in migrations, infrastructure architecture, and security implementations.
 
 ## SKILLS
 
