@@ -16,10 +16,9 @@ body {
 
 /* Global styles for all elements */
 * {
-  font-size: 1rem;
   color: #333;
   font-weight: 400;
-  font-family: "Helvetica", "Arial", "sans-serif";
+  font-family: "Arial", "sans-serif";
 }
 
 /* Remove underline from links */
@@ -137,13 +136,13 @@ ul {
 /* Use a - or you can use "* " for ordered lists */
 ul li::before {
   margin-right: 0.5rem; /* Add some space between the bullet and the text */
-  color: #007aff;
-  font-weight: bold;
 }
 
 ol li::before {
+  color: #007aff;
+  font-weight: bold;
   margin-right: 0.5rem;
-  content: "- ";
+  content: "-";
 }
 
 /*
