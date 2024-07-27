@@ -87,21 +87,22 @@ h3 {
   font-size: 1.1rem;
   font-weight: 700;
   margin-bottom: 0.4rem;
-  margin-top: 0.5rem;
+  margin-top: 0.4rem;
   color: #555;
 }
 
 h4 {
   font-weight: 700;
-  font-size: 0.9rem;
+  font-size: 1rem;
   margin-bottom: 0.4rem;
-  margin-top: 0.5rem;
+  margin-top: 0.4rem;
   color: #555;
 }
 
 /* Style for emphasized text */
 em {
-  float: right;
+  font-size: 0.9rem;
+  /*float: right;*/
   font-weight: 400;
   font-style: italic;
 }
@@ -126,22 +127,29 @@ ol > li {
 }
 
 /* Add left padding to lists  and remove default number or bulletpoint for ol and ul*/
-ol,
+
 ul {
-  padding-left: 0rem;
+  /*padding-left: 1rem;*/
   list-style-type: none;
+  /*margin-left: 1.2rem;*/
+  margin-bottom: 1rem;
+}
+
+ol {
+  list-style-type: none;
+  padding-left: 0rem;
   margin-bottom: 1rem;
 }
 
 /* Use a - or you can use "* " for ordered lists */
-ul li::before {
-  margin-right: 0.5rem; /* Add some space between the bullet and the text */
-}
+/*ul li::before {
+  margin-right: 0.5rem;
+}*/
 
 ol li::before {
   color: #007aff;
   font-weight: bold;
-  margin-right: 0.5rem;
+  margin-right: 0.5rem; /* Add some space between the bullet and the text */
   content: "-";
 }
 
