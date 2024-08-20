@@ -22,7 +22,7 @@ Senior System Engineer with 10+ years of experience in automating and optimizing
 - Microsoft: Microsoft 365, AD, DNS, DHCP
 - Backup and DR: Veeam, VMware SRM
 - Operating Systems and Containers: Windows, Ubuntu, Docker
-- Automation and Scripting: Python, Terraform, Powershell, Git
+- Automation and Scripting: Python, Terraform, PowerShell, Git
 
 ## WORK EXPERIENCE
 
@@ -39,7 +39,7 @@ Senior System Engineer with 10+ years of experience in automating and optimizing
 #### VMware Specialist _| Jul 2021 – Jan 2023_
 
 1. Executed the comprehensive upgrade of the VMware infrastructure (vCenter, ESXi, SRM) of 600+ VMs from legacy versions to the latest releases, ensuring improved performance, security, and scalability
-1. Automated the creation of Veeam DR plan based on vSphere tags using Powershell script
+1. Automated the creation of Veeam DR plan based on vSphere tags using PowerShell script
 1. Managed the implementation of NetApp S3 object storage solution, optimizing data storage and retrieval
 
 ### The University of Hong Kong, _Hong Kong_
@@ -54,8 +54,8 @@ Senior System Engineer with 10+ years of experience in automating and optimizing
 
 1. Planned, designed and architected a new office setup, including budgeting, HVAC, network and power connectivity. Utilized Horizon VDI to enhance efficiency and accessibility
 1. Championed the consolidation of backup solutions to a unified Veeam-only environment, resulting in a 20% improvement in backup efficiency and streamlined backup processes
-1. Oversaw the administration of IT infrastructure, including Active Directory, vSphere, HPE 3PAR, and Nimble storage systems, ensuring optimal performance and reliability
 1. Streamlined patch management for 100 hotels and 10,000 users by implementing a centralized server with ManageEngine Endpoint Central, significantly enhancing operational efficiency
+1. Oversaw the administration of IT infrastructure, including Active Directory, vSphere, HPE 3PAR, and Nimble storage systems, ensuring optimal performance and reliability
 
 ### Café de Coral Holdings Limited, _Hong Kong_
 
