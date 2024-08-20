@@ -78,14 +78,20 @@ Senior System Engineer with 10+ years of experience in automating and optimizing
 
 - Azure Solutions Architect Expert: Jun 2024
 - Azure Administrator Associate: Mar 2023
-- CISSP: Feb 2021
-- VCP6.5-DCV: May 2018
+- CISSP - Certified Information Systems Security Professional: Feb 2021
+- VCP6.5-DCV - VMware Certified Professional 6.5 - Data Center Virtualization: May 2018
 - ITIL Foundation v3: Nov 2017
-- VCP6-DCV: Jun 2016
-- VCP5-DCV: Jun 2014
+- VCP6-DCV - VMware Certified Professional 6 - Data Center Virtualization: Jun 2016
+- VCP5-DCV - VMware Certified Professional 5 - Data Center Virtualization: Jun 2014
 
 ## EDUCATION
 
 ### Hong Kong Baptist University
 
 #### BSc (Hons) Computer Science _| May 2011_
+
+## LANGUAGES
+
+- English: Fluent
+- Cantonese: Native
+- Mandarin: Fluent
