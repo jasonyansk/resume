@@ -38,7 +38,8 @@ Senior System Engineer with 10+ years of experience in automating and optimizing
 
 #### VMware Specialist _| Jul 2021 – Jan 2023_
 
-1.  Execute the comprehensive upgrade of the VMware infrastructure (vCenter, ESXi, SRM) of 600+ VMs from legacy versions to the latest releases, ensuring improved performance, security, and scalability
+1.  Executed the comprehensive upgrade of the VMware infrastructure (vCenter, ESXi, SRM) of 600+ VMs from legacy versions to the latest releases, ensuring improved performance, security, and scalability
+1. Automated the creation of Veeam DR plan based on vSphere tags using Powershell script
 1.  Managed the implementation of NetApp S3 object storage solution, optimizing data storage and retrieval
 
 ### The University of Hong Kong, _Hong Kong_
