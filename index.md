@@ -90,9 +90,3 @@ Senior System Engineer with 10+ years of experience in automating and optimizing
 ### Hong Kong Baptist University
 
 #### BSc (Hons) Computer Science _| May 2011_
-
-## LANGUAGES
-
-- English: Fluent
-- Cantonese: Native
-- Mandarin: Fluent
