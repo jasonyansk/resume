@@ -30,38 +30,38 @@ Senior System Engineer with 10+ years of experience in automating and optimizing
 
 #### Senior Platform Engineer _| May 2023 - Present_
 
-1.  Led the migration from NetBackup to Azure Backup, achieving cost reductions and enhancing backup efficiency
-1.  Implemented Azure Server Arc for on-premises Windows Servers, providing centralized control within Azure environment
-1.  Centralized Windows patch management using Azure Update Manager, improving compliance and reducing vulnerabilities
+1. Led the migration from NetBackup to Azure Backup, achieving cost reductions and enhancing backup efficiency
+1. Implemented Azure Server Arc for on-premises Windows Servers, providing centralized control within Azure environment
+1. Centralized Windows patch management using Azure Update Manager, improving compliance and reducing vulnerabilities
 
 ### City, University of London, _London, UK_
 
 #### VMware Specialist _| Jul 2021 – Jan 2023_
 
-1.  Executed the comprehensive upgrade of the VMware infrastructure (vCenter, ESXi, SRM) of 600+ VMs from legacy versions to the latest releases, ensuring improved performance, security, and scalability
+1. Executed the comprehensive upgrade of the VMware infrastructure (vCenter, ESXi, SRM) of 600+ VMs from legacy versions to the latest releases, ensuring improved performance, security, and scalability
 1. Automated the creation of Veeam DR plan based on vSphere tags using Powershell script
-1.  Managed the implementation of NetApp S3 object storage solution, optimizing data storage and retrieval
+1. Managed the implementation of NetApp S3 object storage solution, optimizing data storage and retrieval
 
 ### The University of Hong Kong, _Hong Kong_
 
 #### IT Officer _| Oct 2019 – Dec 2020_
 
-1.  Facilitated effective collaborations with external parties to ensure successful implementation of various projects
+1. Facilitated effective collaborations with external parties to ensure successful implementation of various projects
 
 ### Shangri-la International Hotel Management Limited, _Hong Kong_
 
 #### System Administrator _| Dec 2016 – Oct 2019_
 
-1.  Led the planning and engineering of a new office setup, spearheading the deployment of Horizon VDI solution for 150 users. Managed budgeting, infrastructure design, and supervised all stages of implementation
-1.  Championed the consolidation of backup solutions to a unified Veeam-only environment, resulting in a 20% improvement in operational efficiency and streamlined backup processes
-1.  Oversaw the administration of IT infrastructure, including Active Directory, vSphere, HPE 3PAR, and Nimble storage systems, ensuring optimal performance and reliability
-1.  Delivered L2 and L3 IT technical support to a global network of 100+ hotels and 10000+ end users
+1. Planned, designed and architected a new office setup, including budgeting, HVAC, network and power connectivity. Utilized Horizon VDI to enhance efficiency and accessibility
+1. Championed the consolidation of backup solutions to a unified Veeam-only environment, resulting in a 20% improvement in backup efficiency and streamlined backup processes
+1. Oversaw the administration of IT infrastructure, including Active Directory, vSphere, HPE 3PAR, and Nimble storage systems, ensuring optimal performance and reliability
+1. Streamlined patch management for 100 hotels and 10,000 users by implementing a centralized server with ManageEngine Endpoint Central, significantly enhancing operational efficiency
 
 ### Café de Coral Holdings Limited, _Hong Kong_
 
 #### Network and System Administrator _| May 2016 – Dec 2016_
 
-1.  Ensured server uptime exceeding 99%, while effectively managed the operations of MS SQL and Oracle databases
+1. Ensured server uptime exceeding 99%, while effectively managed the operations of MS SQL and Oracle databases
 
 ### iCON Business System Limited, _Hong Kong_
 
@@ -71,7 +71,7 @@ Senior System Engineer with 10+ years of experience in automating and optimizing
 
 #### Assistant System Engineer _| Jul 2011 – Apr 2013_
 
-1.  Directed the end-to-end implementation of virtualization, VDI, SAN and NAS storage, and backup/BCP systems for multiple clients, driving their digital transformations and strengthening their IT infrastructures
+1. Directed the end-to-end implementation of virtualization, VDI, SAN and NAS storage, and backup/BCP systems for multiple clients, driving their digital transformations and strengthening their IT infrastructures
 
 <div style="page-break-after: always;"></div>
 
