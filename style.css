@@ -16,7 +16,7 @@ body {
 
 /* Global styles for all elements */
 * {
-  color: #555;
+  color: #000000;
   font-weight: 400;
   font-family: "Arial", "sans-serif";
 }
@@ -46,7 +46,7 @@ h3,
 h4,
 h5 {
   border: none;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.0rem;
 }
 
 /* Specific styling for h1 */
@@ -54,8 +54,9 @@ h1 {
   font-size: 2rem;
   font-weight: 900;
   text-align: left;
-  /*padding-bottom: 0.5rem;*/
+  padding-bottom: 0rem;
   margin-top: 1rem; /* Adjust as needed for html */
+  color: #007aff;
 }
 
 /* Style for paragraph and its elements immediately following h1 */
@@ -63,7 +64,7 @@ h1 + p,
 h1 + p strong,
 h1 + p a {
   font-size: 0.9rem;
-  color: #555;
+  color: #000000;
 }
 
 /* Additional styles for paragraph immediately following h1 */
@@ -79,24 +80,25 @@ h2 {
   font-weight: 600;
   /*border-bottom: 1px solid #eee;*/
   margin-top: 1rem;
-  color: #007aff;
+  /* color: #007aff; */
 }
 
 /* Styling for h3 */
 h3 {
-  font-size: 1.1rem;
+  font-size: 1rem;
   font-weight: 700;
   margin-bottom: 0.4rem;
   margin-top: 0.4rem;
-  color: #555;
+  /* color: #000000; */
+  color: #007aff;
 }
 
 h4 {
-  font-weight: 700;
+  font-weight: 400;
   font-size: 1rem;
   margin-bottom: 0.4rem;
   margin-top: 0.4rem;
-  color: #555;
+  color: #999;
 }
 
 /* Style for emphasized text */
@@ -104,7 +106,7 @@ em {
   font-size: 0.9rem;
   /*float: right;*/
   font-weight: 400;
-  font-style: italic;
+  font-style: normal;
 }
 
 /* Set line height for paragraphs and list items */
