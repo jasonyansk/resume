@@ -52,7 +52,7 @@ Senior System Engineer with 10+ years of experience in automating and optimizing
 
 #### System Administrator _| Dec 2016 – Oct 2019_
 
-1. Planned, designed and architected a new office setup, including budgeting, HVAC, network and power connectivity. Utilized Horizon VDI to enhance efficiency and accessibility
+1. Planned, designed and architected a new office setup for 150 users, including budgeting, HVAC, network and power connectivity. Utilized Horizon VDI to enhance efficiency and accessibility
 1. Championed the consolidation of backup solutions to a unified Veeam-only environment, resulting in a 20% improvement in backup efficiency and streamlined backup processes
 1. Streamlined patch management for 100 hotels and 10,000 users by implementing a centralized server with ManageEngine Endpoint Central, significantly enhancing operational efficiency
 1. Oversaw the administration of IT infrastructure, including Active Directory, vSphere, HPE 3PAR, and Nimble storage systems, ensuring optimal performance and reliability
