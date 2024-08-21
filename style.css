@@ -134,13 +134,13 @@ ul {
   /*padding-left: 1rem;*/
   list-style-type: none;
   /*margin-left: 1.2rem;*/
-  margin-bottom: 1rem;
+  margin-bottom: 0.8rem;
 }
 
 ol {
   list-style-type: none;
   padding-left: 0rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.8rem;
 }
 
 /* Use a - or you can use "* " for ordered lists */
