@@ -104,7 +104,7 @@ h4 {
 /* Style for emphasized text */
 em {
   font-size: 0.9rem;
-  /*float: right;*/
+  float: right;
   font-weight: 400;
   font-style: normal;
 }
