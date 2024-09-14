@@ -22,7 +22,7 @@ Senior System Engineer with 10+ years of experience in automating and optimizing
 - Microsoft: Microsoft 365, AD, DNS, DHCP
 - Backup and DR: Veeam, VMware SRM
 - Operating Systems and Containers: Windows, Ubuntu, Docker
-- Automation and Scripting: Python, Terraform, PowerShell, Git
+- Automation and Scripting: Python, PowerShell, Ansible, Terraform, Git
 
 ## WORK EXPERIENCE
 
@@ -89,4 +89,4 @@ Senior System Engineer with 10+ years of experience in automating and optimizing
 
 ### Hong Kong Baptist University
 
-#### BSc (Hons) Computer Science _May 2011_
+#### BSc (Hons) Computer Science _Sep 2008 - May 2011_
