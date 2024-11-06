@@ -1,7 +1,7 @@
 ---
 title: Jason Yan Resume
 author: Jason Yan
-date: 2024-08-20
+date: 2024-11-06
 css: ./style.css
 ---
 
@@ -13,7 +13,9 @@ css: ./style.css
 
 ## SUMMARY
 
-Senior System Engineer with 10+ years of experience in automating and optimizing IT infrastructure. Proficient in both cloud and on-premise platforms, with expertise in migrations, infrastructure architecture, and security implementations.
+Senior System Engineer with over 10 years of expertise in streamlining and elevating IT infrastructure through automation and
+optimization. Proficiency in both cloud and on-premises environments, excelling in migrations, infrastructure design and
+implementations that drive operational success and efficiency.
 
 ## SKILLS
 
@@ -22,7 +24,7 @@ Senior System Engineer with 10+ years of experience in automating and optimizing
 - Microsoft: Microsoft 365, AD, DNS, DHCP
 - Backup and DR: Veeam, VMware SRM
 - Operating Systems and Containers: Windows, Ubuntu, Docker
-- Automation and Scripting: Python, PowerShell, Ansible, Terraform, Git
+- IaC and Scripting: Python, PowerShell, Ansible, Terraform, Git
 
 ## WORK EXPERIENCE
 
