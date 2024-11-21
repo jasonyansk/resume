@@ -20,7 +20,7 @@ implementations that drive operational success and efficiency.
 ## SKILLS
 
 - Cloud Platforms: Azure
-- On-Premises Infrastructure: vSphere, VDI, SAN, NAS
+- On-Premises Infrastructure: VMware vSphere, VDI, SAN, NAS
 - Microsoft: Microsoft 365, AD, DNS, DHCP
 - Backup and DR: Veeam, VMware SRM
 - Operating Systems and Containers: Windows, Ubuntu, Docker
@@ -57,7 +57,7 @@ implementations that drive operational success and efficiency.
 1. Planned, designed and architected a new office setup for 150 users, including budgeting, HVAC, network and power connectivity. Utilized Horizon VDI to enhance efficiency and accessibility
 1. Championed the consolidation of backup solutions to a unified Veeam-only environment, resulting in a 20% improvement in backup efficiency and streamlined backup processes
 1. Streamlined patch management for 100 hotels and 10,000 users by implementing a centralized server with ManageEngine Endpoint Central, significantly enhancing operational efficiency
-1. Oversaw the administration of IT infrastructure, including Active Directory, vSphere, HPE 3PAR, and Nimble storage systems, ensuring optimal performance and reliability
+1. Oversaw the administration of IT infrastructure, including Active Directory, VMware vSphere, HPE 3PAR and Nimble storage systems, ensuring optimal performance and reliability
 
 ### Café de Coral Holdings Limited _Hong Kong_
 
