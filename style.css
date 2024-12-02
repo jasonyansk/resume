@@ -1,5 +1,6 @@
 html {
-  font-size: 10pt; /* Base font size */
+  /*font-size: 10.5pt;*/ /* Base font size */
+  font-size: 1rem;
 }
 
 @page {
@@ -16,14 +17,25 @@ body {
 
 /* Global styles for all elements */
 * {
+  /* color: #000000; */
   color: #000000;
-  font-weight: 400;
-  font-family: "Arial", "sans-serif";
+  font-weight: 300;
+  font-family: "Helvetica Neue", "sans-serif", "Arial";
+}
+
+table {
+  margin: auto;
+  width: 100%
+}
+
+thead {
+  display: none;
 }
 
 /* Remove underline from links */
 a {
   text-decoration: none;
+  color: #b22c2c;
 }
 
 /* Style for bold text */
@@ -52,20 +64,15 @@ h5 {
 /* Specific styling for h1 */
 h1 {
   font-size: 2rem;
-  font-weight: 900;
+  font-weight: 200;
   text-align: left;
   padding-bottom: 0rem;
-  margin-top: 1rem; /* Adjust as needed for html */
-  color: #007aff;
-}
-
-/* Style for paragraph and its elements immediately following h1 */
-h1 + p,
-h1 + p strong,
-h1 + p a {
-  font-size: 0.9rem;
+  margin-top: 0rem; /* Adjust as needed for html */
+  margin-bottom: 0.5rem;
   color: #000000;
 }
+
+
 
 /* Additional styles for paragraph immediately following h1 */
 h1 + p {
@@ -76,21 +83,21 @@ h1 + p {
 
 /* Styling for h2 */
 h2 {
-  font-size: 1.1rem;
-  font-weight: 600;
+  font-size: 1.3rem;
+  font-weight: 500;
   /*border-bottom: 1px solid #eee;*/
-  margin-top: 1rem;
-  /* color: #007aff; */
+  margin-top: 0rem;
+  margin-bottom: 0.5rem;
+  color: #000000;
 }
 
 /* Styling for h3 */
 h3 {
-  font-size: 1rem;
-  font-weight: 700;
+  font-size: 1.1rem;
+  font-weight: 500;
   margin-bottom: 0.3rem;
   margin-top: 0.3rem;
-  /* color: #000000; */
-  color: #007aff;
+  color: #000000;
 }
 
 h4 {
@@ -149,10 +156,11 @@ ol {
 }*/
 
 ol li::before {
-  color: #007aff;
+  /* color: #007aff; */
+  color: #000000;
   font-weight: bold;
-  margin-right: 0.5rem; /* Add some space between the bullet and the text */
-  content: "-";
+  margin-right: 0.8rem; /* Add some space between the bullet and the text */
+  content: "•";
 }
 
 /*
@@ -165,4 +173,18 @@ ul li::before {
   h1 {
     margin-top: 0rem; /* Adjust as needed for PDF */
   }
+}
+
+
+
+code {
+  display: inline-block;
+  padding: 8px 8px;
+  margin: 2px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #ffffff;
+
+  text-align: center;
+  white-space: nowrap;
 }

@@ -7,26 +7,42 @@ css: ./style.css
 
 <link rel="stylesheet" type="text/css" href="./style.css">
 
+<div style="border: 1px solid #ddd; border-radius: 15px; padding: 15px; max-width: 794px; margin-top: 10px;margin-bottom: 10px;">
+
 # Jason Yan
 
-[whk00016c34@hotmail.com](mailto:whk00016c34@hotmail.com) | +44 (0)7719890032 | London, UK | [linkedin.com/in/jasonyansk](https://www.linkedin.com/in/jasonyansk) | [github.com/jasonyansk](https://jasonyansk.github.io/resume/)
+| Column1 | Column2 |
+| ------- | ------- |
+| Email: [whk00016c34@hotmail.com](mailto:whk00016c34@hotmail.com) | Links: [linkedin.com/in/jasonyansk](https://www.linkedin.com/in/jasonyansk)<br>[github.com/jasonyansk](https://jasonyansk.github.io/resume/) |
+| Location: London, UK | Phone: +44 (0)7719890032 |
 
-## SUMMARY
+
+</div>
+
+
+<div style="border: 1px solid #ddd; border-radius: 15px; padding: 15px; max-width: 794px; margin-top: 10px;margin-bottom: 10px;">
+
+## Summary
 
 Senior System Engineer with over 10 years of expertise in streamlining and elevating IT infrastructure through automation and
 optimization. Proficiency in both cloud and on-premises environments, excelling in migrations, infrastructure design and
 implementations that drive operational success and efficiency.
 
-## SKILLS
+</div>
 
-- Cloud Platforms: Azure
-- On-Premises Infrastructure: VMware vSphere, VDI, SAN, NAS
-- Microsoft: Microsoft 365, AD, DNS, DHCP
-- Backup and DR: Veeam, VMware SRM
-- Operating Systems and Containers: Windows, Ubuntu, Docker
-- IaC and Scripting: Python, PowerShell, Ansible, Terraform, Git
+<div style="border: 1px solid #ddd; border-radius: 15px; padding: 15px; max-width: 794px; margin-top: 10px;margin-bottom: 10px;">
 
-## WORK EXPERIENCE
+## Skills
+
+`Azure` `VMware vSphere` `VDI` `SAN` `NAS` `Microsoft 365` `AD` `DNS` `DHCP` `Veeam` `VMware SRM`
+`Windows Server` `Ubuntu` `Docker`
+`Python` `PowerShell` `Ansible` `Terraform` `Git` `CISSP` `ITIL` `VCP`
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 15px; padding: 15px; max-width: 794px; margin-top: 10px;margin-bottom: 10px;">
+
+## Work Experience
 
 ### University of London _London, UK_
 
@@ -75,9 +91,14 @@ implementations that drive operational success and efficiency.
 
 1. Directed the end-to-end implementation of virtualization, VDI, SAN and NAS storage, and backup/BCP systems for multiple clients, driving their digital transformations and strengthening their IT infrastructures
 
-<div style="page-break-after: always;"></div>
+</div>
 
-## CERTIFICATIONS
+
+
+<div style="border: 1px solid #ddd; border-radius: 15px; padding: 15px; max-width: 794px; margin-top: 10px;margin-bottom: 10px;">
+
+
+## Certifications
 
 - Azure Solutions Architect Expert: Jun 2024
 - Azure Administrator Associate: Mar 2023
@@ -87,8 +108,15 @@ implementations that drive operational success and efficiency.
 - VCP6-DCV - VMware Certified Professional 6 - Data Center Virtualization: Jun 2016
 - VCP5-DCV - VMware Certified Professional 5 - Data Center Virtualization: Jun 2014
 
-## EDUCATION
+</div>
+
+
+<div style="border: 1px solid #ddd; border-radius: 15px; padding: 15px; max-width: 794px; margin-top: 10px;margin-bottom: 10px;">
+
+## Educations
 
 ### Hong Kong Baptist University
 
 #### BSc (Hons) Computer Science _Sep 2008 - May 2011_
+
+</div>
