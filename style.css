@@ -95,18 +95,20 @@ h2 {
 /* Styling for h3 */
 h3 {
   font-size: 1.1rem;
-  font-weight: 500;
+  font-weight: 400;
   margin-bottom: 0.3rem;
   margin-top: 0.3rem;
-  color: #000000;
+  /* color: #000000; */
+  color: #999;
 }
 
 h4 {
-  font-weight: 400;
+  font-weight: 500;
   font-size: 1rem;
   margin-bottom: 0.2rem;
   margin-top: 0.2rem;
-  color: #999;
+  /* color: #999; */
+  color: #000000;
 }
 
 /* Style for emphasized text */
