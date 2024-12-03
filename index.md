@@ -48,17 +48,17 @@ implementations that drive operational success and efficiency.
 
 #### Senior Platform Engineer _May 2023 - Present_
 
-1. Led the migration from NetBackup to Azure Backup, reducing costs and enhancing backup efficiency 
-1. Implemented Azure Server Arc for on-premises Windows Servers, providing centralized control within Azure environment
+1. Led migration from NetBackup to Azure Backup, reducing costs and enhancing backup efficiency
+1. Implemented Azure Arc Server for on-premises Windows Servers, providing centralized control within Azure environment
 1. Centralized Windows patch management using Azure Update Manager, improving compliance and reducing vulnerabilities
 
 ### City, University of London _London, UK_
 
 #### VMware Specialist _Jul 2021 - Jan 2023_
 
-1. Executed the comprehensive upgrade of the VMware infrastructure (vCenter, ESXi, SRM) of 600+ VMs from legacy versions to the latest releases, ensuring improved performance, security, and scalability
-1. Automated creation of Veeam DR plan based on vSphere tags using PowerShell script, reducing manual effort
-1. Managed the implementation of NetApp S3 object storage solution, optimizing data storage and retrieval
+1. Execute comprehensive upgrade of VMware infrastructure (vCenter, ESXi, SRM) of 600+ VMs from legacy version to latest release, ensuring improved performance, security, and scalability
+1. Automated Veeam DR plan creation based on vSphere tags using PowerShell, reducing manual effort
+1. Managed implementation of NetApp S3 object storage solution, optimizing data storage and retrieval
 
 ### The University of Hong Kong _Hong Kong_
 
@@ -70,16 +70,16 @@ implementations that drive operational success and efficiency.
 
 #### System Administrator _Dec 2016 - Oct 2019_
 
-1. Planned, designed and architected a new office setup for 150 users, including budgeting, HVAC, network and power connectivity. Utilized Horizon VDI to enhance efficiency and accessibility
+1. Led the comprehensive setup for a new office accommodating 150 users, encompassing server room design and IT infrastructure setup. Managed project planning, budgeting, and vendor coordination, successfully implementing Horizon VDI to enhance operational efficiency
 1. Championed the consolidation of backup solutions to a unified Veeam-only environment, resulting in a 20% improvement in backup efficiency and streamlined backup processes
 1. Streamlined patch management for 100 hotels and 10,000 users by implementing a centralized server with ManageEngine Endpoint Central, significantly enhancing operational efficiency
-1. Oversaw the administration of IT infrastructure, including Active Directory, VMware vSphere, HPE 3PAR and Nimble storage systems, ensuring optimal performance and reliability
+1. Served as main contact point of IT infrastructure such as VMware vSphere, HPE 3PAR, Nimble storage arrays, backup and DR solutions, ensuring optimal performance and reliability
 
 ### Café de Coral Holdings Limited _Hong Kong_
 
 #### Network and System Administrator _May 2016 - Dec 2016_
 
-1. Ensured server uptime exceeding 99%, while effectively managed the operations of MS SQL and Oracle databases
+1. Ensured server uptime over 99%, while managed the operations of MS SQL and Oracle databases
 
 ### iCON Business System Limited _Hong Kong_
 
@@ -89,7 +89,7 @@ implementations that drive operational success and efficiency.
 
 #### Assistant System Engineer _Jul 2011 - Apr 2013_
 
-1. Directed the end-to-end implementation of virtualization, VDI, SAN and NAS storage, and backup/BCP systems for multiple clients, driving their digital transformations and strengthening their IT infrastructures
+1. Directed end-to-end implementation of virtualization, VDI, SAN and NAS storage, and backup/BCP solutions for multiple clients, driving digital transformations and strengthening IT infrastructures
 
 </div>
 
