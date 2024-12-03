@@ -48,7 +48,7 @@ implementations that drive operational success and efficiency.
 
 #### Senior Platform Engineer _May 2023 - Present_
 
-1. Led the migration from NetBackup to Azure Backup, achieving cost reductions and enhancing backup efficiency
+1. Led the migration from NetBackup to Azure Backup, reducing costs and enhancing backup efficiency 
 1. Implemented Azure Server Arc for on-premises Windows Servers, providing centralized control within Azure environment
 1. Centralized Windows patch management using Azure Update Manager, improving compliance and reducing vulnerabilities
 
@@ -57,7 +57,7 @@ implementations that drive operational success and efficiency.
 #### VMware Specialist _Jul 2021 - Jan 2023_
 
 1. Executed the comprehensive upgrade of the VMware infrastructure (vCenter, ESXi, SRM) of 600+ VMs from legacy versions to the latest releases, ensuring improved performance, security, and scalability
-1. Automated the creation of Veeam DR plan based on vSphere tags using PowerShell script
+1. Automated creation of Veeam DR plan based on vSphere tags using PowerShell script, reducing manual effort
 1. Managed the implementation of NetApp S3 object storage solution, optimizing data storage and retrieval
 
 ### The University of Hong Kong _Hong Kong_
