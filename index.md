@@ -64,7 +64,7 @@ implementations that drive operational success and efficiency.
 
 #### IT Officer _Oct 2019 - Dec 2020_
 
-1. Transformed Ubuntu Linux authentication from local password management to LDAP integration
+1. Tested transforming Ubuntu Linux authentication from local password management to LDAP integration
 
 ### Shangri-la International Hotel Management Limited _Hong Kong_
 
